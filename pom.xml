@@ -73,8 +73,7 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 
 				<configuration>
-					<source>3.2.5</source>
-					<target>3.2.5</target>
+
 						<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
