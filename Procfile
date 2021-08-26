@@ -1,1 +1,1 @@
-web: java -jar target/universitymgr-1.0.0.jar
+java -Dserver.port=8080 $JAVA_OPTS -jar target/university-0.0.1-SNAPSHOT.jar**
